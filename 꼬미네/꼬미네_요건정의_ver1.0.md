@@ -3,3 +3,12 @@
 ### 2. 세부기능
 1. 글 등록/수정/삭제
 2. 이미지 편집 
+
+## 개발 
+### MVC model1
+### Eclipse / java / win64 / mariaDB
+* home index.jsp
+* 글 등록 insert.jsp
+* 글 수정 update.jsp
+* 글 삭제 delete.jsp 
+* 글 목록 list.jsp
