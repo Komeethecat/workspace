@@ -12,3 +12,5 @@
 * 글 수정 update.jsp
 * 글 삭제 delete.jsp 
 * 글 목록 list.jsp
+
+### ERD -ERMaster 사용
