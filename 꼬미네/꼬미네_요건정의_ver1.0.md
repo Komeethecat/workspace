@@ -13,4 +13,7 @@
 * 글 삭제 delete.jsp 
 * 글 목록 list.jsp
 
-### ERD -ERMaster 사용
+### ERD -ERMaster 사용하여 작성
+
+![model_1_v1.0](img/model_1_v1.0.png)
+
