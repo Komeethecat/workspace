@@ -15,5 +15,7 @@
 
 ### ERD -ERMaster 사용하여 작성
 
-![model_1_v1.0](img/model_1_v1.0.png)
+![model_1_v1.0](../img/model_1_v1.0.png)
+
+
 
