@@ -6,7 +6,7 @@
 
 ## 개발 
 ### MVC model1
-### Eclipse / java / win64 / mariaDB
+### Eclipse / java / win64 / H2DB
 * home index.jsp
 * 글 등록 insert.jsp
 * 글 수정 update.jsp
